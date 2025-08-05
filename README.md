@@ -101,6 +101,6 @@ The business’s highest revenue comes from the “Champions,” “Loyal,” �
 
 ### Dashboard Preview
 ![Customer Demographics](https://github.com/the-suraj-as/RFM-Analysis-Customer-Segmentation-Online-Sales-SQL-Power-BI-Excel/blob/main/PNG-Customer%20Demographics.png)
-![]()
-![]()
-![]()
+![Customer Segmentation by RFM](https://github.com/the-suraj-as/RFM-Analysis-Customer-Segmentation-Online-Sales-SQL-Power-BI-Excel/blob/main/PNG-Customer%20Segmentation%20by%20RFM.png)
+![Customer Details]()
+![Customer Segment & RFM Description]()
