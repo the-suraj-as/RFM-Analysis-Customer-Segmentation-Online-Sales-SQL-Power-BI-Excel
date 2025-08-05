@@ -10,7 +10,7 @@
 - [Dashboard Preview](#Dashboard-Preview)
 
 ## Project Overview
-The RFM Segmentation Dashboard is a data-driven solution designed to classify customers based on their Recency, Frequency, and Monetary purchase behavior. By uncovering patterns in customer activity and value, the dashboard enables businesses to understand loyalty, engagement levels, and revenue contribution.  Identified key segments such as Champions, Loyal, and At-Risk customers, with tailored marketing actions suggested for each, enabling strategic decision-making in retention and reactivation. <br> <br>
+This is a RFM Segmentation Dashboard, which helps to take data-driven solutions for customers based on their Recency, Frequency, and Monetary purchase behavior. By uncovering patterns in customer activity and value, the dashboard enables businesses to understand loyalty, engagement levels, and revenue contribution. In this dashboard customers are categorized into key segments such as Champions, Loyal, At-Risk customers etc.,  with tailored marketing actions suggested for each, enabling strategic decision-making in retention and reactivation. <br> <br>
 
 ## Data Set
 **Online sales transactional data.**
@@ -58,7 +58,7 @@ To deliver a business-friendly dashboard that:
 - **Demographic Customer Overview:**  
   - Total Sales: $29.36M  
   - Total Customers: 18,484  
-  - Balanced Sales by Gender & Marital Status: Sales are nearly evenly split by gender (Male 50.46%, Female 49.54%) and marital status (Single 51.73%, Married 48.27%), indicating that marketing should emphasize inclusivity.
+  - Balanced Sales by Gender & Marital Status: Sales are nearly evenly split by gender (Male 50.46%, Female 49.54%) and marital status (Single 51.73%, Married 48.27%), indicating that marketing should remain emphasizing inclusivity.
   - Age Group Opportunity: The 65-74 and 55-64 age groups contribute the most sales ($7.7M and $11.4M). Efforts to deepen engagement in these age brackets, such as age-relevant offers and targeted messaging, could further boost revenue. Conversely, the 85-94 demographic contributes the least ($0.7M), suggesting limited potential there.
   - Geographical Focus: United States, Australia and UK lead in sales. These should remain primary target regions. Other European countries (France, Germany) aswell are the significant contributors.  
 
