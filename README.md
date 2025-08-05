@@ -100,4 +100,7 @@ To deliver a business-friendly dashboard that:
 The business’s highest revenue comes from the “Champions,” “Loyal,” “At Risk,” and “Cannot Lose Them” segments, which require focused retention and personalized engagement to safeguard sales. New and promising customers show strong acquisition but need nurturing to increase their value. Disengaged groups like “Hibernating” and “Lost Customers” should be targeted with reactivation campaigns. Demographically, sales are balanced by gender and marital status, with the 55–74 age range driving most revenue. Key markets include the US, Australia, and the UK. Tailored marketing by segment and demographics will maximize growth and retention.  
 
 ### Dashboard Preview
-![]
+![Customer Demographics](https://github.com/the-suraj-as/RFM-Analysis-Customer-Segmentation-Online-Sales-SQL-Power-BI-Excel/blob/main/PNG-Customer%20Demographics.png)
+![]()
+![]()
+![]()
